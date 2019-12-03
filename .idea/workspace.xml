@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10f9d56a-7edb-43e2-8e37-08b59937084a" name="Default Changelist" comment="wgweg">
+      <change beforePath="$PROJECT_DIR$/dynamic_linking/open_file/do_stuff.bash" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_linking/open_file/do_stuff.bash" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_linking/open_file/inspect_open.c" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_linking/open_file/inspect_open.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic_linking/open_file/inspect_open.so" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic_linking/open_file/inspect_open.so" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UR0MBM4OPt1ya0PXutSAda2AGL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dynamic_linking/random" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dynamic_linking/open_file" />
+      <recent name="$PROJECT_DIR$/dynamic_linking/random" />
+      <recent name="$PROJECT_DIR$/trial1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dynamic_linking/random" />
+      <recent name="$PROJECT_DIR$/dynamic_linking/open_file" />
+      <recent name="$PROJECT_DIR$/hello_world" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10f9d56a-7edb-43e2-8e37-08b59937084a" name="Default Changelist" comment="" />
+      <created>1575304049562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575304049562</updated>
+      <workItem from="1575304051013" duration="2394000" />
+      <workItem from="1575345975001" duration="5279000" />
+      <workItem from="1575357198413" duration="3257000" />
+    </task>
+    <task id="LOCAL-00001" summary="ignore">
+      <created>1575357393959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575357393959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="wrgwrwgw">
+      <created>1575357454950</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575357454950</updated>
+    </task>
+    <task id="LOCAL-00003" summary="egretrt">
+      <created>1575357540963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575357540963</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ignore" />
+    <MESSAGE value="wrgwrwgw" />
+    <MESSAGE value="egretrt" />
+    <option name="LAST_COMMIT_MESSAGE" value="egretrt" />
+  </component>
+</project>
